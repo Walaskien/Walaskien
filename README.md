@@ -15,7 +15,3 @@ DevOps / infrastructure engineer. Linux, virtualization, networks, monitoring, K
 ## Stack
 
 Linux · VMware / Proxmox · Veeam · Docker · Kubernetes (kubeadm, Helm, ingress, cert-manager) · Prometheus / Grafana / Zabbix · Ansible · Bash / Python · MikroTik · WireGuard / IPsec · GitHub Actions
-
-## Кратко по-русски
-
-Инженер по инфраструктуре: Linux, виртуализация, сети, мониторинг, Kubernetes. В репозиториях выше то, что запускается и проверяется, в каждом README есть раздел «Проверено» и раздел с ограничениями.
