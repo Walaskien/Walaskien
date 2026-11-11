@@ -11,6 +11,8 @@ DevOps / infrastructure engineer. Linux, virtualization, networks, monitoring, K
 | [mikrotik-site-to-site](https://github.com/Walaskien/mikrotik-site-to-site) | Generates RouterOS 7 configs for a WireGuard mesh with a backup link from one YAML file. |
 | [single-node-k8s-platform](https://github.com/Walaskien/single-node-k8s-platform) | Single-node Kubernetes lab on k3d with private PKI, TLS ingress, PostgreSQL backups and Grafana; the kubeadm node is documented and scripted. CI brings it up and restores a backup. |
 | [backup-restore-verification](https://github.com/Walaskien/backup-restore-verification) | Postgres backups that are restored into a throwaway container and checked, with the result in Prometheus. |
+| [cicd-k8s-delivery](https://github.com/Walaskien/cicd-k8s-delivery) | Flask app delivered to a kind cluster by GitHub Actions: Helm deploy, smoke test, rollback. |
+| [gitops-argocd](https://github.com/Walaskien/gitops-argocd) | Argo CD app-of-apps for two environments with Kustomize overlays, PR checks and an end-to-end job on kind. |
 | [dual-homed-routing](https://github.com/Walaskien/dual-homed-routing) | Why replies leave through the wrong interface on a host with two uplinks, with a check script and a netplan example. |
 | [apple-tls-398](https://github.com/Walaskien/apple-tls-398) | Apple clients rejecting long-lived internal TLS certificates: limits, a check script, a cert-manager example. |
 
